@@ -1,0 +1,34 @@
+---
+title: "Project Proposal"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## TV Effects on Children Behavior
+
+Most people believe that the things you watch doesn’t always have an effect on the actions that people portray. Being that sight is one of the five senses, a person is more willing to believe in something that they see to be true. Children learn behavior from what they see people around them do. Television is one major influencer on the behaviors of all people. There are many types of television shows that people can decide to watch, but most people are going to watch what he/she prefer that is entertaining to them; for there is a variety of television show genres from action, crime, kids and family, educational, thrillers, and etc.
+
+Society has attempted to find ways to warn people about the television that they are watching. For example for all television shows and movies they have rating according to age appropriateness. Most shows that are age appropriate for children include cartoons, family movies, and educational advancing learning. The TV ratings are TV-Y (all children), TV-Y7 (older children aged 7+), TV-Y7-FV (older children/fantasy violence), TV-G (general audience), TV-PG (parental guidance), TV-14 (age 14+), and TV-MA (mature audience only). These TV ratings gives parents a clear picture of what to expect from the TV show being displayed before them and their children. 
+
+Knowing the TV ratings is a good place to start for parents when deciding what TV shows are appropriate for their children. All parents expect the best behavior out of their children due to the actions and teachings that the parent has poured out to the child. Parents can take control over what a child watches and how much time should be allotted for each TV show that has been given proper parental approval. Due to the reality of the world advancing exponentially in technology, it is expected that most children have experienced screen time. According to CNN, US children ages zero to eight spend an average of 2 hours and 19 minutes every day on screen media in 2017, while children from ages eight to twelve spend an average of 4 hours and 36 minutes every day on screen media in a 2015 Common Sense Media Report. To doctors this is too much TV for children, and too much TV watching can also take away time from reading, studying, learning activities, play, and/or exercise. Television can also show lot of negative behavior including alcohol and/or drug use, smoking, and sexual behavior before a child is emotionally ready to understand these issues and practice good decision-making. Worse than most, TV programs can show children violent behavior that you do not want them to imitate, or that can cause fear. In the long run, imitated violent behaviors can lead to a child being violent and committing crimes such as suicide and all types of murder when one grows older. No parent wants to see his/her child end up in jail for committing such violent acts.
+
+All actions that a person take scan be prevented in one way or another. Parents play a huge role in prevention of violent behavior in a child. According to Stanford Children’s Health, Parents can help decrease the harmful effects of television watching by screening the type of programming and limiting the amount of time a child watches television. Stanford Children’s Health suggest the following as good television viewing habits:
+
+1. Choose programs for your child to watch. Always plan what your child will see on TV. Do not turn on the TV randomly. Give choices between two programs you think are appropriate for your child.
+2. Limit TV viewing to 1 or 2 hours a day for children older than 2 years of age. The American Academy of Pediatrics recommends that children younger than 2 years should not watch TV at all.
+3. Turn to educational shows from the local Public Broadcasting Station (PBS), or from programming such as the Discovery Channel, Learning Channel, or History Channel.
+4. Watch TV with your child. Talk about what happened on the show. Talk about what was good or bad about the program. Talk about the difference between reality and make-believe.
+5. Turn the TV off if the program is something you believe your child should not see.
+*Do not assume all cartoons are acceptable and appropriate, as many cartoons contain violence.
+6. Many daytime programs (such as soap operas and talk shows) are not appropriate for children.
+7. Be a good example to your child by not watching too much television yourself. Be involved in other activities, especially reading. Read to your child.
+8. Encourage play and exercise for your child. Plan other fun activities for your child, so he or she has choices instead of TV.
+9. Limit using TV as a reward for good behavior. Try a trip to the park, a festival, playground, or a visit to a relative's or friend's house instead.
+10. Do not allow TV watching during mealtimes.
+
+There has been a few scientific experiments that has come to the conclusion that early exposure to TV violence places both male and female children at risk for the development of aggressive and violent behavior in adulthood, and that viewing violent media cause more aggression in children. 
