@@ -1,0 +1,24 @@
+---
+title: "Project Proposal"
+author: "Ladesha Jenkins"
+header-includes:
+    - \usepackage{setspace}\doublespacing
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Affects on Children Behavior
+
+  Children have lived by the saying, "Monkey see. Monkey do." This saying explians how after a monkey sees someone or something partake in an action, the monkey will then repeat the action that was seen. Metaphorically the monkey(s) are children. Children display behaviors that they have learned from the things they have experienced or have seen. This type of behavior can be catergorized as observatioal learning. Children learn and imitate behaviors by watching and listening to others. Being that sight is one of the five senses, people and children are more willing to believe in something that they see to be true. The sense of hearing confirms what people and children has seento be true as well.
+  
+  Each day there are multiple things and people that a child would observe where behaviors can be learned from. these multiple things would be considered as the factors of indeopendent variables that affect behavior in children. In this project, the factors that are tested that affect behavior in children are electronics, siblings (older and younger), parental approach, and nutrition. These factors tend to be the major affects in childrne because these typically are things and people that the child would encounter everyday. The examples set by adults, older siblings and children are the most powerful influences shaping a child's behaviour and personality. Electronics an nutirition would be the next major inlfuences on childre behavior because electronic offer exposure to all types of huma behavior from the negative to positive behavior. The elements or ingredients of a child's diet like thiamin treatment reverses aggressiveness in thiamin-deficient children, and sucrose and additives are suspected to induce hyperactivity.
+  
+  Of all types of behavior a child can display, the focus of the project would be on aggressive behavior. the level of aggressiveness would be determined according to the different circumstances of the household that the child lives in. it is know that all people's circumstances are different or have their own uniqueness. At a general level, realistic scenarios or cases that are close to what a child's family can fit in are projected according to the different levels of the project. Being that children would be the main focus, parents would be the audience of this project. the pupose of the project would be to  predict the level of aggression with these given levels according to each factor or independent variable.
+  
+  overall, parents woyuld want to know about how factors ca affect the aggressiveness i their child in meansof knowing how to properly discipline or handle the child with care. Children are precious beings and it is important to promote healthy growth and positive behaviors in a child.
+ 
